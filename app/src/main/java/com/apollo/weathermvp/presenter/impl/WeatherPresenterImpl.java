@@ -8,6 +8,7 @@ import com.apollo.weathermvp.presenter.WeatherPresenter;
 import com.apollo.weathermvp.view.WeatherView;
 
 /**
+ * presenter实现
  * Created by Apollo on 2017/2/20.
  */
 

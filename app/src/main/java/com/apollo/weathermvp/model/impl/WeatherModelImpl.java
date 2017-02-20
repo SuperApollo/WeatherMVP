@@ -8,6 +8,7 @@ import com.apollo.weathermvp.presenter.OnWeatherListener;
 import com.apollo.weathermvp.util.volley.VolleyRequest;
 
 /**
+ * 天气数据请求操作接口的实现
  * Created by Apollo on 2017/2/20.
  */
 

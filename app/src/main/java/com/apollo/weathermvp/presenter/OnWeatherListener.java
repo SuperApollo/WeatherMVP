@@ -3,6 +3,7 @@ package com.apollo.weathermvp.presenter;
 import com.apollo.weathermvp.model.entity.Weather;
 
 /**
+ * 请求weather数据监听
  * Created by Apollo on 2017/2/20.
  */
 

@@ -4,6 +4,7 @@ import android.support.v7.app.ActionBarActivity;
 import android.view.View;
 
 /**
+ * 抽出的父activity
  * Created by Apollo on 2017/2/20.
  */
 

@@ -1,6 +1,7 @@
 package com.apollo.weathermvp.model.entity;
 
 /**
+ * 天气实体类操作类
  * Created by Apollo on 2017/2/20.
  */
 

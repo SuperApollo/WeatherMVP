@@ -11,6 +11,7 @@ import com.google.gson.reflect.TypeToken;
 import java.io.UnsupportedEncodingException;
 
 /**
+ * volley的请求天气数据封装
  * Created by Apollo on 2017/2/20.
  */
 

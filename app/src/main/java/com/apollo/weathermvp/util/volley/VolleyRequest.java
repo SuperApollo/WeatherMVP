@@ -7,6 +7,7 @@ import com.android.volley.Response;
 import com.android.volley.toolbox.Volley;
 
 /**
+ * 封装的volley请求
  * Created by Apollo on 2017/2/20.
  */
 

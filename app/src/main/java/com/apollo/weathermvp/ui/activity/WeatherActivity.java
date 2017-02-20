@@ -35,7 +35,6 @@ public class WeatherActivity extends BaseActivity implements WeatherView,View.On
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_weather);
         init();
-
     }
 
     private void init() {
